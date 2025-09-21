@@ -1,5 +1,5 @@
 # terraform_modules_demo
-<<<<<<< HEAD
+
 This project contains terraform module demonstration 
 =======
 
@@ -80,4 +80,3 @@ Your Name – Your GitHub shadaab-29
 
 
 
->>>>>>> 0d2d8f9 (README updated)
