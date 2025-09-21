@@ -33,7 +33,7 @@ terraform_modules_demo/
 - AWS account with access key and secret key
 - AWS CLI configured or environment variables set:
 
-```bash
+
 export AWS_ACCESS_KEY_ID="your-access-key"
 export AWS_SECRET_ACCESS_KEY="your-secret-key"
 export AWS_DEFAULT_REGION="ap-south-1"
