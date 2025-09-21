@@ -1,0 +1,17 @@
+# Terraform files
+*.tfstate
+*.tfstate.backup
+.terraform/
+.terraform.lock.hcl
+
+# OS files
+.DS_Store
+*.log
+
+# IDE / editor files
+.vscode/
+.idea/
+*.code-workspace
+
+# AWS credentials (if stored locally)
+*.pem
